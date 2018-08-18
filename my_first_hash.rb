@@ -38,6 +38,6 @@ def adding
 
 
   # return the shipping_manifest hash below
-  return shipping_manifest
+  return shipping_manifest = {}
 
 end
